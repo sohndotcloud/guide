@@ -1,0 +1,1 @@
+sudo dnf install texinfo help2man patch libtool bison ncurses-devel
